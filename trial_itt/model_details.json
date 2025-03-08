@@ -1,0 +1,1 @@
+{"numerator": "censored_inv ~ x2", "denominator": "x2 + x1", "model_type": "te_stats_glm_logit", "file_path": "trial_itt\\logit_model.pkl"}
